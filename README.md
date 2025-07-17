@@ -1,2 +1,3 @@
 # clone-tabnews
-implementação do tabnews com finalidade de aprendizado 
+
+implementação do tabnews com finalidade de aprendizado
